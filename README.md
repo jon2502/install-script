@@ -13,3 +13,8 @@ The purpose of this program is to automate the setup of a new Linux machine by i
 ## setup script
 ```bash
 bash setup.sh
+```
+
+## Notes
+1. this program was made for Linux Mint so if you wannt to use it for another Linux distro chnages will have to be made to the program
+2. Node.js and .NET both install specific versions. Check whether your system supports those versions, or if you can use a newer version instead.
